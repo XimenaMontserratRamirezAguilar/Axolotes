@@ -1,0 +1,66 @@
+body{background-color: rgba(145, 0, 116, 0.481);
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+p{
+    color:lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.título{
+    color:azure;
+    size: 1000px;
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 80px;
+}
+.axotierno{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+}
+a{
+    color:rgb(135, 2, 135);
+    text-decoration:none;
+}
+.menú{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.características{
+    color:rgb(1, 80, 133);
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 30px;
+}
+.Ximena{
+    color:rgb(135, 2, 135);
+    font-family: 'Familjen Grotesk', sans-serif;
+    font-size: 23px;
+}
+.axoloteazul{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+}
+.axolote3{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+}
+.MITOLOGÍA{
+    color:rgb(135, 2, 135);
+}
+.ANATOMÍA{
+    color:rgb(158, 3, 158);
+}
+.CONSERVACIÓN{
+    color:rgb(183, 3, 183);
+}
+
+
+
+
+
+
