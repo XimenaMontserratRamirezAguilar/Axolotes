@@ -1,0 +1,155 @@
+body{background-color: rgba(145, 0, 116, 0.481);
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+} 
+
+.título{
+    color:azure;
+    size: 1000px;
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 440%;
+    width:auto;
+    background-color: deeppink;
+
+
+}
+    
+.axotierno{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+    
+}
+p{
+    color:lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10; margin-top: 0; 
+    line-height: 30px;
+}
+
+
+
+.menú a{
+    color:rgb(247, 247, 247);
+    text-decoration:none;
+    font-family:fantasy;
+    font-size: x-large;
+    font-weight: 50;
+    
+
+
+}
+.menú{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.explora p{
+    background-color: rgba(137, 43, 226, 0.357);
+    font-family: 'Familjen Grotesk', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size: large;
+}
+button{ 
+    background-color: rgba(255, 9, 128, 0.523);
+}
+main .menú button:hover{
+    border-color: #fffffffe;
+    box-shadow: 0 1px 6px 0px #aaaaaa ;
+    box-sizing:content-box;
+}
+main .carac-axol {
+    background-color: rgb(211, 80, 169);
+    background-size: auto;
+}
+.características{
+    background-color: rgba(240, 255, 255, 0.196);
+    color:rgb(12, 1, 86);
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 30px;
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    letter-spacing: 4px;
+}
+.Ximena{
+    color:rgb(135, 2, 135);
+    font-family: 'Familjen Grotesk', sans-serif;
+    font-size: 23px;
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+}
+.axoloteazul{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+}
+.axolote3{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+}
+.MITOLOGÍA{
+    color:rgb(65, 14, 53);
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    text-decoration:wavy;
+    font-family:fantasy;
+    font-size: x-large;
+    font-weight: 50;
+}
+.ANATOMÍA{
+    color:rgb(65, 14, 53);
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    text-decoration:wavy;
+    font-family:fantasy;
+    font-size: x-large;
+    font-weight: 50;
+}
+.CONSERVACIÓN{
+    color:rgb(65, 14, 53);
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    text-decoration:wavy;
+    font-family:fantasy;
+    font-size: x-large;
+    font-weight: 50;
+}
+
+main .lee{ 
+font-family:fantasy;
+font-size: x-large;
+font-weight: 50;
+}
+
+.formulario {
+    color:rgb(65, 14, 53);
+    align-items: center;
+    align-content:space-between;
+    text-align: center;
+    text-decoration:wavy;
+    font-family:fantasy;
+    font-size: x-large;
+    font-weight: 50;
+}
+
+.axolote6{
+    width: 50%;
+display: flex;
+margin-left: 25%;
+
+}
+
+
+
+
